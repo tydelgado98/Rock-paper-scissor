@@ -1,0 +1,58 @@
+body {
+    background-color: gainsboro;
+    font-family: 'Roboto', sans-serif;
+    margin: 0%;
+}
+
+#start {
+    background-color: blueviolet;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-decoration: none;;
+    font-size: 16px;
+    border-radius: 21px;
+}
+#start:hover {
+    background-color: rgb(112, 1, 160);
+    color: yellow;
+}
+
+#game {
+    margin: 90px auto;
+    text-align: center;
+}
+/* how do you text away the decorations on the links*/
+li {
+    display: inline;
+    padding: 10px;
+;
+}
+a {
+    text-decoration: none;
+    color: black;
+    margin: 0px 7px;
+}
+nav{
+    text-align: end;
+    font-weight: 600;
+}
+header {
+    text-align: center;
+    width: 100%;
+    line-height: 50px;
+    background-color: whitesmoke;
+}
+h1 {
+    margin: 0%;
+    padding: 3%;
+    font-size: 50px;
+    color: black;
+}
+#me {
+    margin: 5%;
+    padding: 3%;
+    font-size: 40px;
+    color: black;
+    text-align: center;
+}
