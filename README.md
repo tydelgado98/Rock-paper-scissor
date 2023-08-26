@@ -1,31 +1,80 @@
-# Rock-paper-scissor
+ # Rock Paper Scissors
+  ![Static Badge](https://img.shields.io/badge/:license-MIT-green)
 
-(https://img.shields.io/badge/license-mit-blue)
+  
+ ## Preview
+![homepage-screenshot](images/Screenshot%20(36).png)
+  
+
+  
+
+
+
   ## Description
+  - This app allows you the user to face off against a ai in a game of rock paper scissors 
+  - This was made by making the choice random for the computer so it isn't cheating, so it's a fair game
+
   
-  - This simple app allows you to play a quick or long game of Rock,Paper and Scissors
+
   
+
+  
+
   ## Installation
+  - N/A
+
   
-  N/A
+
+  
+
+  
+
+  ## Usage
+  - Just for fun
+
+  
+
+  
+
+  
+
+  ## Technologies Used
+  - Css,HTML,and JS
+
+  
+
+  
+
+  
+
+  ## Contributors
+  - Justin Tyler
+
+  
+
+  
+
+  
+
+  ## License
+  - MIT
+  - https://opensource.org/licenses/MIT
+  
+   
+  
+
+  
+
+  
+
+  ## Github
+  - tydelgado98
+
+  
+
+  
+
   
 
   ## Email
-
-  delgadojustin100@yahoo.com
-  
-
-  ## GitHub
-
-  tydelgado98
-  
-  ## Credits
-  
-  Justin Delgado
-
-  ## Preview
-![homepage-screenshot](images/Screenshot%20(36).png)
-
-  ## License
-  
-  My license is the (https://choosealicense.com/licenses/mit) License
+  - delgadojustin100@yahoo.com
