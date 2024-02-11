@@ -2,7 +2,7 @@
   ![Static Badge](https://img.shields.io/badge/:license-MIT-green)
 
   
-https://tydelgado98.github.io/Rock-paper-scissor/
+
   
  ## Preview
 ![homepage-screenshot](images/Screenshot%20(36).png)
@@ -15,6 +15,7 @@ https://tydelgado98.github.io/Rock-paper-scissor/
   ## Description
   - This app allows you the user to face off against a ai in a game of rock paper scissors 
   - This was made by making the choice random for the computer so it isn't cheating, so it's a fair game
+  - https://tydelgado98.github.io/Rock-paper-scissor/
 
   
 
