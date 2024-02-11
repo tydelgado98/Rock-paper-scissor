@@ -1,6 +1,6 @@
  # Rock Paper Scissors
   ![Static Badge](https://img.shields.io/badge/:license-MIT-green)
-
+https://tydelgado98.github.io/Rock-paper-scissor/
   
  ## Preview
 ![homepage-screenshot](images/Screenshot%20(36).png)
